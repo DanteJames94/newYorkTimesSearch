@@ -1,0 +1,17 @@
+#header {
+  background: deepskyblue;
+  padding: 20px;
+  text-align: center;
+  height: 200px;
+}
+
+.terms {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.cardHeader {
+  background: lightgray;
+  padding: 10px;
+  border-radius: 10px;
+}
